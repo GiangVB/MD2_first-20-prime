@@ -1,0 +1,1 @@
+# Thực hành Java hiển thị 20 số nguyên tố đầu tiên #
